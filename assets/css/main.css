@@ -32,7 +32,11 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-
+.full-img{
+	bottom: 160px;
+	position:absolute;
+	width:100%;
+}
 ol, ul {
 	list-style: none;
 }
